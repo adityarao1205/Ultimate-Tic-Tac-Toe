@@ -2,7 +2,8 @@
 
 A simple yet engaging Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 
-![Game Preview](screenshot.png) <!-- Add your screenshot file here -->
+![Game Preview](<img width="1710" alt="DEMO" src="https://github.com/user-attachments/assets/65ca9979-d53a-43f7-b3b2-580131ca9133" />
+) <!-- Add your screenshot file here -->
 
 ## Features
 
